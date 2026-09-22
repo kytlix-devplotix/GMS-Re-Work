@@ -1,0 +1,13 @@
+{
+	"package": "com.kytlix_devplotix.gms_rw.mixin",
+	"required": true,
+	"refmap": "mixins.gms_rw.refmap.json",
+	"target": "@env(DEFAULT)",
+	"minVersion": "0.8.5",
+	"compatibilityLevel": "JAVA_8",
+	"mixins": [
+		"MixinItemSpeckledMelon"
+	],
+	"server": [],
+	"client": []
+}
